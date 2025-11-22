@@ -379,6 +379,88 @@ View analytics and monitor nutrition, fasting, and achievements
 <img width="751" height="511" alt="Screenshot 2025-11-22 180050" src="https://github.com/user-attachments/assets/3ad4eddd-2f16-4a94-9518-3ae5d9f2dba5" />
 <img width="696" height="524" alt="Screenshot 2025-11-22 175918" src="https://github.com/user-attachments/assets/0e1dfa02-fefb-419f-8a82-46584f3da765" />
 
+## Optima Planner – Your Personal Habit & Productivity Tracker
 
+## 📊 Track, Analyze, and Optimize Your Daily Habits
+
+Optima Planner is a Flutter app designed to help users track their habits, analyze productivity, and optimize daily routines. From creating habit plans to tracking streaks, analyzing reports, and even getting AI-powered guidance, Optima Planner makes habit-building interactive, visual, and effective.
+
+## ✨ Key Features
+## 🏃 Habit Tracking & Streaks
+
+Track daily habits with ease and maintain streaks over time.
+
+Visualize habit completion with detailed calendars.
+
+Analyze which habits are consistent and which need improvement.
+
+## 📸 Habit Media & Feedback
+
+Add photos for each habit or activity.
+
+Receive replies or feedback for habits tracked.
+
+Scan habits and get insights or suggestions for improvement.
+
+## 📊 Reports & Analytics
+
+Generate detailed reports for habit completion and streaks.
+
+Visual dashboards to analyze time spent, completion rates, and productivity trends.
+
+Review history and progress to optimize your daily routine.
+
+## 📝 Planning & Scheduling
+
+Add personalized habit plans and deadlines.
+
+Schedule daily, weekly, or monthly habits.
+
+Track the status of each habit to stay on top of your goals.
+
+## 🤖 AI Assistance
+
+ChatGPT API integration for personalized habit suggestions and motivation.
+
+Ask for advice or insights about productivity, focus, or habit optimization.
+
+## 🌐 Backend & Synchronization
+
+Firebase: Authentication, Firestore, and real-time updates.
+
+REST APIs: Sync habit data across devices seamlessly.
+
+## 🛠 Tools & Technologies
+
+Languages: Dart & Flutter
+
+State Management: GetX
+
+Backend: Firebase Auth, Firestore, REST APIs
+
+AI: ChatGPT API for personalized insights and guidance
+
+UI/UX: Responsive design with clean layouts
+
+Version Control: Git & GitHub
+
+## 🚀 What Users Can Do
+
+Create, track, and manage daily habits
+
+Monitor streaks and completion through visual calendars
+
+Add photos for habit tracking and receive AI-generated feedback
+
+Generate reports and analyze habit trends
+
+Plan future habits and track deadlines
+
+Interact with AI (ChatGPT) for guidance, motivation, and insights
+
+## Screenshots
+<img width="614" height="559" alt="Screenshot 2025-11-22 182040" src="https://github.com/user-attachments/assets/950d7d06-d4a5-402b-be21-fee050a5d8f1" />
+<img width="762" height="552" alt="Screenshot 2025-11-22 182430" src="https://github.com/user-attachments/assets/b447089f-8cdc-4cf0-b32b-c0e3ec048dc3" />
+<img width="769" height="551" alt="Screenshot 2025-11-22 182621" src="https://github.com/user-attachments/assets/7c84b493-c420-403c-afd1-530deca71805" />
 
 
