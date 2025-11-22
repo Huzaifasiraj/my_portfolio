@@ -1,4 +1,4 @@
-## Huzaifa Siraj | Flutter Developer
+# Huzaifa Siraj | Flutter Developer
 👋 Hello! I'm Huzaifa Siraj 📱 Flutter Developer | 1 Year of Experience
 
 I specialize in creating fast, smooth, and user-friendly mobile applications that people love to use.
