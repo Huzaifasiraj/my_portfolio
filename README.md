@@ -5,43 +5,43 @@ I specialize in creating fast, smooth, and user-friendly mobile applications tha
 With 1 year of hands-on experience, I bring ideas to life using modern Flutter technologies and clean UI/UX design.
 ## 🔧 Skills & Expertise
 
-🛠 Flutter Development
+## 🛠 Flutter Development
 
 Dart & Flutter Framework: Building cross-platform applications with clean, maintainable code and responsive UIs.
 
-🎯 State Management
+## 🎯 State Management
 
 GetX: Implementing simple and efficient state management solutions.
 
-🎨 UI/UX Development
+## 🎨 UI/UX Development
 
 Material & Cupertino Widgets: Creating clean, adaptive, and engaging user interfaces.
 
-🏗 Architecture Patterns
+## 🏗 Architecture Patterns
 
 MVVM & Clean Architecture: Structuring apps for maintainability and scalability.
 
-🌐 Backend Integration
+## 🌐 Backend Integration
 
 REST APIs: Using Dio or HTTP packages for network calls and API integration.
 
-🔥 Firebase Services
+## 🔥 Firebase Services
 
 Firebase Auth & Firestore: Adding authentication and cloud database features for app functionality.
 
-📱 Push Notifications
+## 📱 Push Notifications
 
 Firebase Cloud Messaging: Basic notification handling for user engagement.
 
-🗄 Local Storage
+## 🗄 Local Storage
 
-SQLite, Hive, SharedPreferences: Simple and efficient local data storage.
+SQLite, SharedPreferences: Simple and efficient local data storage.
 
-🔄 Background Processing
+## 🔄 Background Processing
 
 Workmanager: Handling simple background tasks for sync and notifications.
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 Version Control: Git & GitHub
 
