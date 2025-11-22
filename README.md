@@ -116,5 +116,90 @@ Your safety and privacy are our priority. Robust security measures and privacy c
 ![6d0be51a-5f66-437c-8a49-dc1237791c84](https://github.com/user-attachments/assets/a9c98fc1-ee30-4771-9a56-5b43bd95eb73)
 ![b4a84ef8-16a4-419b-bf28-e7c72304c694](https://github.com/user-attachments/assets/a8247102-4e97-4755-8688-a564dffb5112)
 
+## Gym Buddy
+
+💪 Your Personal Gym & Nutrition Companion
+
+Welcome to Gym Buddy, the ultimate Flutter app designed to help you track workouts, nutrition, and progress effortlessly. Whether you’re at home, in the office, or at the gym, Gym Buddy makes staying fit and healthy intuitive, interactive, and motivating.
+
+## ✨ Key Features
+## 🏋️‍♂️ Workout & Exercise Tracking
+
+Full Body, Chest, and Gym Workouts: Pre-built routines for office workouts, home sessions, and gym training.
+
+Animated Guidance: Smooth animations for each exercise to ensure correct form and reduce injuries.
+
+Progress Bars: Track reps, sets, and completion in real-time during workouts.
+
+## 🍎 Nutrition & Food Tracking
+
+Daily Food Log: Add meals, track calories, carbohydrates, proteins, and vitamins.
+
+Water Intake Tracker: Monitor your daily water consumption.
+
+Weekly & Monthly Summaries: Analyze your nutrition and hydration trends over time.
+
+## 📊 Health Metrics & Goals
+
+Personal Dashboard: Track your age, weight, target weight, BMI, and progress visually.
+
+Custom Goals: Set targets for weight, muscle gain, or fat loss.
+
+## 🌗 Dark & Light Mode
+
+Enjoy seamless switching between dark and light themes for personalized comfort.
+
+## 🌐 Backend Integration
+
+Firebase: Authentication, Firestore for data storage, and real-time updates.
+
+SQLite: Efficient offline storage for meals, workouts, and progress.
+
+## 📈 Analytics & Progress
+
+View detailed charts and graphs for weekly and monthly progress.
+
+See calorie intake, macros, and hydration trends at a glance.
+
+## 🎨 UI/UX
+
+Flutter Animations: Smooth, engaging animations to guide workouts and app navigation.
+
+Material Design & Custom Widgets: Intuitive and responsive interface for both Android and iOS.
+
+## 🔒 Privacy & Security
+
+Your data is safe: Secure storage and privacy-focused architecture.
+
+## 🛠 Tools & Technologies
+
+Languages: Dart & Flutter
+
+State Management: GetX
+
+Backend: Firebase Auth, Firestore
+
+Local Storage: SQLite
+
+UI/UX: Material Design, Animations, Dark & Light Mode
+
+Version Control: Git & GitHub
+
+## 🚀 What Users Can Do
+
+Track daily workouts with animations and progress bars
+
+Add meals and water intake
+
+Monitor weekly & monthly nutrition and fitness progress
+
+Set personal fitness goals (weight, muscle gain, fat loss)
+
+View analytics for calories, carbs, protein, and vitamins
+
+<img width="421" height="545" alt="Screenshot 2025-11-22 165758" src="https://github.com/user-attachments/assets/5f7f93d2-6408-4446-a45b-8be17ed88581" />
+<img width="746" height="549" alt="Screenshot 2025-11-22 170600" src="https://github.com/user-attachments/assets/60c21ba2-b036-4d28-b210-22c55131a8df" />
+<img width="498" height="361" alt="Screenshot 2025-11-22 165637" src="https://github.com/user-attachments/assets/4af4e3d1-827d-4e2c-b04d-7a2823d2213b" />
+
 
 
