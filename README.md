@@ -197,6 +197,8 @@ Set personal fitness goals (weight, muscle gain, fat loss)
 
 View analytics for calories, carbs, protein, and vitamins
 
+## Screenshots
+
 <img width="421" height="545" alt="Screenshot 2025-11-22 165758" src="https://github.com/user-attachments/assets/5f7f93d2-6408-4446-a45b-8be17ed88581" />
 <img width="746" height="549" alt="Screenshot 2025-11-22 170600" src="https://github.com/user-attachments/assets/60c21ba2-b036-4d28-b210-22c55131a8df" />
 <img width="498" height="361" alt="Screenshot 2025-11-22 165637" src="https://github.com/user-attachments/assets/4af4e3d1-827d-4e2c-b04d-7a2823d2213b" />
@@ -273,9 +275,109 @@ Tenants: Submit maintenance requests with photos & details
 Staff: Receive, update, and mark maintenance as complete
 
 Admin: Track all activities, approve completed work, and manage users
+
+## Screenshots
+
 <img width="652" height="516" alt="Screenshot 2025-11-22 173416" src="https://github.com/user-attachments/assets/7416bebe-c2ec-490a-95dd-98e8e1ec50c3" />
 <img width="803" height="567" alt="Screenshot 2025-11-22 173932" src="https://github.com/user-attachments/assets/60e7c162-3d8d-43de-9b64-2680aaf380bc" />
 <img width="680" height="561" alt="Screenshot 2025-11-22 173807" src="https://github.com/user-attachments/assets/8fadc5a8-ced9-44d0-a45b-142a07be7865" />
+
+## Fastify – Your Personal Meal & Fasting & Wellness Planner
+
+## ⏱️ Track, Plan, Connect, and Stay Healthy with Fastify
+
+Fastify is a Flutter app designed to help users manage meals, track fasting, and maintain a healthy lifestyle, all while connecting with friends and the community. Plan meals, track fasting streaks, compete with friends, earn rewards, and stay motivated with interactive wellness features.
+
+## ✨ Key Features
+## 🥗 Meal Planning & Tracking
+
+Plan daily meals: Breakfast, Lunch, Dinner, and Snacks.
+
+Track what you eat and maintain nutrition logs.
+
+Customize your meal plans according to your dietary goals.
+
+## ⏱ Fasting Tracker & Streaks
+
+Track your daily fasting schedule and duration.
+
+Maintain streaks and visualize fasting progress over days, weeks, and months.
+
+Learn insights about different fasting types and timings.
+
+## 🎵 Relaxing Music
+
+Listen to curated relaxing songs while fasting or during meals.
+
+Create a calm and focused environment for wellness.
+
+## 👥 Social & Community Features
+
+Add friends and connect with your wellness community.
+
+See friends’ fasting streaks and compete in streak challenges.
+
+Share achievements, rewards, and progress with your friends.
+
+Answer wellness questions and interact to earn badges and recognition.
+
+## 🌐 Backend & State Management
+
+Firebase: Authentication, Firestore, real-time updates, and cloud data storage.
+
+GetX: Efficient state management for smooth and reactive UI interactions.
+
+## 📊 Analytics & Progress
+
+Visualize fasting times, streaks, and meal logs.
+
+Track achievements, rewards, and compare progress with friends.
+
+Maintain a balanced schedule with insights on fasting, meals, and activity.
+
+## 🎨 UI/UX & Customization
+
+Flutter-powered responsive UI for both Android and iOS.
+
+Interactive dashboards to monitor fasting, meals, and social interactions.
+
+## 🔒 Privacy & Security
+
+All personal data, meal logs, fasting schedules, and social interactions are securely stored in Firebase.
+
+Data is protected and synced across devices in real-time.
+
+## 🛠 Tools & Technologies
+
+Languages: Dart & Flutter
+
+State Management: GetX
+
+Backend: Firebase Auth, Firestore
+
+Version Control: Git & GitHub
+
+🚀 What Users Can Do
+
+Plan and log meals (Breakfast, Lunch, Dinner, Snacks)
+
+Track fasting times and maintain streaks
+
+Connect with friends and the wellness community
+
+Compare fasting streaks and earn rewards
+
+Answer wellness questions to earn badges
+
+Listen to relaxing songs while fasting
+
+View analytics and monitor nutrition, fasting, and achievements
+
+## Screenshots
+
+<img width="628" height="572" alt="Screenshot 2025-11-22 175824" src="https://github.com/user-attachments/assets/78d917f3-91da-436b-ba11-344610fb3c24" />
+<img width="751" height="511" alt="Screenshot 2025-11-22 180050" src="https://github.com/user-attachments/assets/3ad4eddd-2f16-4a94-9518-3ae5d9f2dba5" />
+<img width="696" height="524" alt="Screenshot 2025-11-22 175918" src="https://github.com/user-attachments/assets/0e1dfa02-fefb-419f-8a82-46584f3da765" />
 
 
 
