@@ -201,5 +201,82 @@ View analytics for calories, carbs, protein, and vitamins
 <img width="746" height="549" alt="Screenshot 2025-11-22 170600" src="https://github.com/user-attachments/assets/60c21ba2-b036-4d28-b210-22c55131a8df" />
 <img width="498" height="361" alt="Screenshot 2025-11-22 165637" src="https://github.com/user-attachments/assets/4af4e3d1-827d-4e2c-b04d-7a2823d2213b" />
 
+## TMCO – Tenant Management & Communication App
+
+## 🏢 Your Complete Building Management Solution
+
+TMCO is a Flutter app designed to streamline building management and tenant communication. Whether you manage apartments or individual buildings, TMCO helps admins, staff, and tenants stay connected, report issues, and track maintenance efficiently.
+
+## ✨ Key Features
+## 👥 Multi-Panel Access
+
+Admin Panel: Oversee all building activities, track issue resolution, and manage users.
+
+Guest Panel: View available apartments or facilities and submit requests.
+
+User/Tenant Panel: Report issues, share photos, and monitor maintenance progress.
+
+## 🏢 Maintenance & Reporting
+
+Tenants can send photos and details of maintenance issues directly through the app.
+
+Maintenance staff receives requests with attached images and descriptions for quick action.
+
+Admin can track if work is completed, approve actions, and maintain logs of all activities.
+
+## 🌐 Backend Integration
+
+REST APIs: All app functionalities are powered via secure REST API calls for real-time updates.
+
+Admin dashboard syncs with staff and tenant activities seamlessly.
+
+## 📸 Media Sharing
+
+Upload and attach photos for maintenance issues.
+
+Tenants and staff can view the history of submitted requests with images and status updates.
+
+## 📊 Tracking & Analytics
+
+Admin can monitor pending and completed tasks.
+
+Maintain records of tenant requests and staff responses for accountability.
+
+## 🎨 UI/UX & Performance
+
+Flutter: Smooth, responsive UI across both Android and iOS.
+
+Clean and intuitive layout for all three panels (Admin, Guest, User).
+
+## 🔒 Privacy & Security
+
+Data security is top priority: User uploads and personal info are protected.
+
+Role-based access ensures each panel sees only relevant information.
+
+## 🛠 Tools & Technologies
+
+Languages: Dart & Flutter
+
+State Management: GetX
+
+Backend: REST API integration
+
+UI/UX: Flutter Widgets, Material Design
+
+Version Control: Git & GitHub
+
+## 🚀 What Users Can Do
+
+Tenants: Submit maintenance requests with photos & details
+
+Staff: Receive, update, and mark maintenance as complete
+
+Admin: Track all activities, approve completed work, and manage users
+<img width="652" height="516" alt="Screenshot 2025-11-22 173416" src="https://github.com/user-attachments/assets/7416bebe-c2ec-490a-95dd-98e8e1ec50c3" />
+<img width="803" height="567" alt="Screenshot 2025-11-22 173932" src="https://github.com/user-attachments/assets/60e7c162-3d8d-43de-9b64-2680aaf380bc" />
+<img width="680" height="561" alt="Screenshot 2025-11-22 173807" src="https://github.com/user-attachments/assets/8fadc5a8-ced9-44d0-a45b-142a07be7865" />
+
+
 
 
