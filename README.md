@@ -56,9 +56,12 @@ Networking: REST API (Dio / HTTP)
 ## 🌟 Let’s Connect!
 Feel free to explore my projects and get in touch if you’d like to collaborate or discuss new opportunities:
 
-WhatsApp: +923093608702
+**WhatsApp**: +923093608702
 
-Email: huzaifaflutter.eng@gmail.com
+**Email**: huzaifaflutter.eng@gmail.com
+
+**LinkedIn:**[ https://linkedin.com/in/yourusername  ](https://www.linkedin.com/in/huzaifa-siraj-225241371?)
+
 
 Let’s build something amazing together!
 
