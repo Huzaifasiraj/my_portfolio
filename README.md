@@ -17,6 +17,10 @@ GetX: Implementing simple and efficient state management solutions.
 
 Material & Cupertino Widgets: Creating clean, adaptive, and engaging user interfaces.
 
+## 🏗 Architecture Patterns
+
+MVVM: Structuring apps for maintainability, scalability, and clean state management.
+
 ## 🌐 Backend Integration
 
 REST APIs: Using Dio or HTTP packages for network calls and API integration.
@@ -39,7 +43,7 @@ Version Control: Git & GitHub
 
 State Management: GetX
 
-Architecture: MVVM & Clean Architecture
+Architecture: MVVM
 
 Database: Firebase Firestore, SQLite, Hive
 
