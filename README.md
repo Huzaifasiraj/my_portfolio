@@ -17,10 +17,6 @@ GetX: Implementing simple and efficient state management solutions.
 
 Material & Cupertino Widgets: Creating clean, adaptive, and engaging user interfaces.
 
-## 🏗 Architecture Patterns
-
-MVVM & Clean Architecture: Structuring apps for maintainability and scalability.
-
 ## 🌐 Backend Integration
 
 REST APIs: Using Dio or HTTP packages for network calls and API integration.
@@ -36,10 +32,6 @@ Firebase Cloud Messaging: Basic notification handling for user engagement.
 ## 🗄 Local Storage
 
 SQLite, SharedPreferences: Simple and efficient local data storage.
-
-## 🔄 Background Processing
-
-Workmanager: Handling simple background tasks for sync and notifications.
 
 ## 🛠 Tools & Technologies
 
