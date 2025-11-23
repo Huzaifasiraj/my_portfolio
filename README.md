@@ -43,7 +43,7 @@ Version Control: Git & GitHub
 
 State Management: GetX
 
-Architecture: MVVM
+Architecture: MVVM,
 
 Database: Firebase Firestore, SQLite, Hive
 
